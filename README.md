@@ -22,10 +22,10 @@ A detailed explanation of design, algorithms, and results is provided in the Doc
 * Completely Fair Scheduler (CFS)
 
 ## Tech Stack:
-Language: C
-GUI: GTK
-Build: Makefile
-Platform: Linux / macOS
+- Language: C
+- GUI: GTK
+- Build: Makefile
+- Platform: Linux / macOS
 
 ## HOW TO RUN:
 ### Go to terminal
