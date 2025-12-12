@@ -1,4 +1,4 @@
-CPU Scheduling Simulator
+# CPU Scheduling Simulator
 
 This project is a CPU Scheduling Simulator written in C to demonstrate how different CPU scheduling algorithms work in an operating system.
 It allows users to enter process details and observe execution order, timing values, and Gantt chart output using both terminal and GUI modes.
