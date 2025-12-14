@@ -29,9 +29,12 @@ A detailed explanation of design, algorithms, and results is provided in the Doc
 
 ## HOW TO RUN:
 ### Go to terminal
-### Change directory to the project folder:
+Change directory to the project folder:
+'''bash
 cd CPU_Scheduling_Project
-### Compile and run the GUI version:
+
+
+Compile and run the GUI version:
 gcc -Wall -Wextra -std=c99 $(pkg-config --cflags gtk+-3.0) -Iinclude \
 src/gui/main.c src/gui/main_window.c src/gui/process_input.c \
 src/gui/results_display.c src/gui/gtk_helpers.c src/core/cpu_scheduler.c \
